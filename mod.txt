@@ -1,7 +1,7 @@
 {
 	"name" : "Show me the hidden mods",
 	"description" : "This mode shows all of the user's mods. You can also see the mode of the user who installed 'hidden mods'.",
-	"contact" : "https://github.com/ihatelua/Payday2_single-mode-collection",
+	"contact" : "https://github.com/ihatelua/Show-me-the-hidden-mods",
 	"hooks" : [
 		{ "hook_id" : "lib/network/base/networkpeer", "script_path":"mod.lua"}
 	]
